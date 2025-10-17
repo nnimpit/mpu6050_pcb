@@ -15,3 +15,38 @@
 | **5**    | **Firmware Development (Production Week 2)** | Continue firmware development while PCBs in production             | I²C protocol, Arduino MPU6050 library, data plotting               | Write Arduino code, test with off-the-shelf MPU6050             | Working I²C data demo (serial plotter)                   |
 | **6**    | **PCB Assembly & Hardware Testing**          | Assemble board, verify power and communication                     | Soldering, continuity test, debugging, I²C address scan            | Solder components, power-up test, confirm detection at 0x68     | Assembled PCB + I²C scan screenshot                      |
 | **7**    | **Calibration, Debugging & Presentation**    | Debug and calibrate sensor, present project                        | Common PCB issues, calibration, report writing                     | Collect real data, prepare slides and report                    | Final report + working demo presentation                 |
+
+
+## คะแนน
+| Component                | Weight | Description                                         |
+| ------------------------ | ------ | --------------------------------------------------- |
+| Schematic & PCB Design   | 30%    | Completeness, correctness, DRC-pass, layout quality |
+| Documentation & BOM      | 10%    | Clarity, cost estimation, manufacturability         |
+| Firmware Testing         | 20%    | Working I²C communication, sensor data logging      |
+| PCB Assembly & Debugging | 20%    | Soldering quality, functionality                    |
+| Final Presentation       | 20%    | Report, visuals, explanation, demonstration         |
+
+## อุปกรณ์ที่ต้องเตรียม
+1. EasyEDA (online)
+
+1. JLCPCB account
+
+1. Soldering station + tools
+
+1. Multimeter & Oscilloscope
+
+1. Arduino Uno / ESP32
+
+Components SMD
+
+1. MPU6050 sensor (QFN)
+
+1. Voltage regulator 3.3 V
+
+1.  10 µF, 0.1 µF capacitors
+
+1. 4.7 kΩ pull-up resistors
+
+1. 3 mm LED + 330 Ω resistor
+
+1. Pin headers
