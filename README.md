@@ -1,7 +1,7 @@
 # แผนการสอน Selected topics: PCB design - mpu6050 
 ## Course Overview
 
-Course title: Practical PCB Design for Beginners
+Course title: Practical PCB Design for Beginners \n
 Duration: 7 weeks (2–3 hours/week)
 Target audience: Junior Electrical Engineering students
 Tools: EasyEDA (cloud-based), JLCPCB for manufacturing, and basic soldering kit
