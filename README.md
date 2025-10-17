@@ -1,3 +1,5 @@
+# แผนการสอน Selected topics: PCB design - mpu6050 
+
 | **Week** | **Title / Focus**                            | **Learning Objectives**                                            | **Key Topics**                                                     | **Lab / Activity**                                              | **Deliverables**                                         |
 | -------- | -------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ | --------------------------------------------------------------- | -------------------------------------------------------- |
 | **1**    | **Intro to PCB Design & Motion Sensors**     | Understand PCB workflow and motion sensing fundamentals            | PCB structure (layers, vias), EasyEDA overview, MPU6050 basics     | Create EasyEDA account and draw a simple LED schematic          | Screenshot of first schematic                            |
